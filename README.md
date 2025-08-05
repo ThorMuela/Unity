@@ -1,35 +1,52 @@
-# Minecraft Vida - Unity Loader
+# 🟩 Unity Loader – Mod Loader para Minecraft
 
-Este es el proyecto base de **Minecraft Vida** usando Unity como motor principal.
+**Unity Loader** es un cargador de mods (mod loader) para Minecraft que permite ejecutar mods personalizados, cargar configuraciones externas y organizar el inicio del juego de forma modular.
 
-## 📦 Requisitos
+Este proyecto es de código abierto y está pensado para creadores de contenido, desarrolladores y jugadores avanzados.
 
-- Unity Hub y Unity 2022.3 LTS o superior.
-- Paquetes recomendados:
-  - TextMeshPro
-  - Input System
-  - Universal Render Pipeline (URP)
-  - DOTween (opcional para animaciones)
-  - Cinemachine (opcional para cámaras)
+---
 
-## 🚀 Cómo usar
+## 📦 Descargas
 
-1. Abre Unity Hub.
-2. Selecciona 'Add project' y elige esta carpeta.
-3. Instala los paquetes sugeridos desde el Package Manager.
-4. Compila desde `File > Build Settings`.
+- 🔗 [Descargar el loader (ZIP)](unity-loader-completo.zip)
+- 🔗 [Descargar la API para desarrolladores](api-documentation.zip) *(próximamente)*
 
-## 🧩 Estructura del proyecto
+---
 
-- `/Assets` – Recursos del juego.
-- `/Scenes` – Escenas del juego.
-- `/Scripts` – Código fuente en C#.
-- `/Prefabs`, `/UI`, etc. – Elementos visuales y de jugabilidad.
+## 🧩 Características principales
 
-## 📜 Licencia
+- Compatible con **NeoForge**, **Forge** y **Fabric**
+- Soporte completo desde **Minecraft 1.20.x hasta 1.21.x**
+- Permite cargar mods desde carpetas personalizadas
+- Compatible con menús de inicio y escenas de carga personalizadas
+- Documentación técnica incluida
 
-Este proyecto es de uso educativo y creativo. El contenido personalizado es propiedad de sus autores originales.
+---
 
-## 🙋 Autor
+## 📋 Requisitos
 
-**ThorMuela** – [GitHub](https://github.com/ThorMuela)
+- Minecraft **1.20.x a 1.21.x**
+- Java 17 o superior
+- Un cargador compatible: NeoForge, Forge o Fabric
+
+---
+
+## 🛠️ Estado del proyecto
+
+- 🔄 En desarrollo activo
+- 🧪 Buscando testers
+- 📚 La API estará publicada en CurseForge y Modrinth próximamente
+
+---
+
+## 👤 Autor
+
+Creado por **Héctor Muela**  
+Licencia: MIT (código libre y reutilizable)
+
+---
+
+## 🌐 Página web
+
+Accede a la web del proyecto con más información y descargas:  
+📎 `https://github.com/ThorMuela/unity-loader-completo`
