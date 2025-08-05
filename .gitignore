@@ -1,0 +1,30 @@
+# Archivos que Unity genera automáticamente y no deben subirse
+[Llaves temporales]
+[Librerías]
+
+[Librerías del sistema]
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+MemoryCaptures/
+
+# Archivos personales y del sistema operativo
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.DS_Store
+*.apk
+*.keystore
+.vscode/
+
+# Archivos ocultos
+.DS_Store
+.idea/
+*.pidb
+*.svd
+*.pdb
+*.mdb
